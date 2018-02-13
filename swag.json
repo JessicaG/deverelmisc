@@ -1,0 +1,64 @@
+{
+  "swag": {
+    "Sticker Mule": {
+      "type": "stickers",
+      "website": "https://www.stickermule.com",
+      "promotion": null,
+      "reccos": null
+    },
+    "Anvil": {
+      "type": "tshirts",
+      "website": "http://www.anvilknitwear.com/",
+      "promotion": null,
+      "reccos": null
+    },
+    "Sticker Giant": {
+      "type": "stickers",
+      "website": "https://www.stickergiant.com/",
+      "promotion": "use 250STICKERSHEETS and get 250 free sheets when you order 500 or more",
+      "reccos": null
+    },
+    "Diginate": {
+      "type": "stickers",
+      "website": "https://www.diginate.com",
+      "promotion": null,
+      "reccos": null
+    },
+    "Social Imprints": {
+      "type": "assortment",
+      "website": "https://www.socialimprints.com",
+      "promotion": null,
+      "reccos": null
+    },
+    "Sticker Robot": {
+      "type": "stickers",
+      "website": "https://stickerobot.com",
+      "promotion": null,
+      "reccos": null
+    },
+    "Kotis": {
+      "type": "assortment",
+      "website": "https://kotisdesign.com",
+      "promotion": null,
+      "reccos": null
+    },
+    "Real Threads": {
+      "type": "tshirts",
+      "website": "https://www.realthread.com",
+      "promotion": null,
+      "reccos": "next level brand"
+    },
+    "Canary": {
+      "type": "assortment",
+      "website": "http://www.canarymarketing.com/",
+      "promotion": null,
+      "reccos": "mugs/sunglasses/pretty much anything"
+    },
+    "Message Beans": {
+      "type": "plants",
+      "website": "https://thepatentmagicplant.com/message-bean",
+      "promotion": null,
+      "reccos": null
+    }
+  }
+}
